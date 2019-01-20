@@ -1,7 +1,2 @@
 # Youtube-Downloader
-Simple Youtube Downloader 
-
-## Usage:
- ```
- python downloader.py <url> <Number-of-Threads>
- ```
+Simple Youtube Downloader which downloads videos from youtube using arc2 download manager and multiple threads.
